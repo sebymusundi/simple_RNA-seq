@@ -6,7 +6,8 @@ This repository is a RNA sequence pipeline made in nexflow.
 ### Pre-requisites 
 
 Conda environment 
-Docker 
+
+ 
 
 #### Pipeline 
 The pipeline comprises of the following steps:
